@@ -1,0 +1,440 @@
+{
+  "origin": [
+      "#awkwardAdj.capitalize# #new_technologies# are #improvingRuining# the #sociopoliticalAdj# #society#.",
+      "#gerund# & #new_technologies#: #animal.s# in the anthropocene. #hashtag#",
+      "#improvingRuining# the #new_technologies# as #edifice.a# of #sociopoliticalAdj# #thought#. #hashtag#",
+      "#neopost.capitalize#-#sociopoliticalAdj.capitalize# #institute.capitalize#. #hashtag#",
+      "#bigNamePerson# once told me that #new_technologies# is only #examination.a# of #appliance.a#. #hashtag#",
+      "CFP: #conference# for #reimaginingTitles# the #fancyAdj.capitalize# #society.capitalize#. #hashtag#",
+      "New idea: the #growthDecline# of the #appliance# is #improvingRuining# our #society#. #hashtag#",
+      "I am #improvingRuining# the #techsOF# of #sociopoliticalAdj# #noun.s#.",
+      "STS Clue: \n#bigNamePerson#\nin the #room#\nwith the #new_technologies#",
+      "We are all #animal.s#: #new_technologies# in the capitalocene. #hashtag#",
+      "We built our #physicalPlace.s# out of #buildingmaterials# and #sociopoliticalAdj# #techsOF#",
+      "What are the ethics of #new_technologies#? #hashtag#",
+      "Working on a #number1to20#,000 word article about the #builtInAdj# #ideology# of every #object#. #hashtag#",
+      "Please stop to think about the #builtInAdj# #ideology# of your #appliance#",
+      "Twitter version of #fancyAdj# #ideology#:\n\n\n #cuteKaomoji#"
+  ],
+
+    "animal": [
+        "aardvark","albatross","alligator","alpaca","ant","anteater","antelope","ape","armadillo","baboon","badger","barracuda","bat","bear","beaver","bee","bison","boar","buffalo","butterfly","camel","caribou","cassowary","cat","caterpillar","cattlenote","chamois","cheetah","chicken","chimpanzee","chinchilla","chough","coati","cobra","cockroach","cod","cormorant","coyote","crab","crane","crocodile","crow","curlew","deer","dinosaur","dog","dogfish","dolphin","donkey","dotterel","dove","dragonfly","duck","dugong","dunlin","eagle","echidna","eel","eland","elephant","elephant seal","elk","emu","falcon","ferret","finch","fish","flamingo","fly","fox","frog","gaur","gazelle","gerbil","giant panda","giraffe","gnat","gnu","goat","goldfinch","goosander","goose","gorilla","goshawk","grasshopper","grouse","guanaco","guinea fowl","guinea pig","gull","hamster","hare","hawk","hedgehog","heron","herring","hippie","hornet","horse","hummingbird","hyena","ibex","ibis","jackal","jaguar","jay","jellyfish","kangaroo","kinkajou","koala","komodo dragon","kouprey","kudu","lapwing","lark","lemur","leopard","lion","llama","lobster","locust","loris","louse","lyrebird","magpie","mallard","mammoth","manatee","mandrill","mink","mole","mongoose","monkey","moose","mosquito","mouse","narwhal","newt","nightingale","octopus","okapi","opossum","ostrich","otter","owl","oyster","panda","panther","parrot","partridge","peafowl","pelican","penguin","pheasant","pig","pigeon","polar bear","pony","porcupine","porpoise","prairie dog","quail","quelea","quetzal","rabbit","raccoon","ram","rat","raven","red deer","red panda","reindeer","rhinoceros","rook","salamander","salmon","sand dollar","sandpiper","sardine","sea lion","sea urchin","seahorse","seal","shark","sheep","shrew","skunk","sloth","snail","snake","spider","squirrel","starling","stegosaurus","swan","tapir","tarsier","termite","tiger","toad","turkey","turtle","vicuña","wallaby","walrus","wasp","water buffalo","weasel","whale","wolf","wolverine","wombat","wren","yak","zebra"
+    ],
+    "appliance": [
+      "HVAC","air conditioner","air fryer","air ioniser","aroma lamp","attic fan","bachelor griller","back boiler","barbecue","beehive oven","beverage opener","boiler","bread machine","butane torch","can opener","ceiling fan","central vacuum cleaner","clothes dryer","clothes iron","coffee percolator","coffeemaker","combo washer dryer","compactor","convection heater","convection microwave","convection oven","corn roaster","crepe maker","deep fryer","dehumidifier","dishwasher","earth oven","electric cooker","electric water boiler","embroidery machine","energy regulator","espresso machine","fan heater","field kitchen","fire pot","fireplace toaster","flame supervision device","flattop grill","food steamer","garbage disposal unit","hair dryer","hair iron","halogen oven","home server","hot plate","humidifier","icebox","instant hot water dispenser","internet refrigerator","kettle","kimchi refrigerator","kitchener range","micathermic heater","microwave oven","mousetrap","oil heater","oven","panini sandwich grill","patio heater","pneumatic vacuum","popcorn maker","pressure cooker","pressure fryer","radiator","reflector oven","refrigerator","rice cooker","rice polisher","robotic vacuum cleaner","rotisserie","sandwich toaster","self-cleaning oven","set-n-forget cooker","sewing machine","slow cooker","solar cooker","sous-vide cooker","soy milk maker","stove","sump pump","susceptor","swamp cooler","tandoor","thermal immersion circulator","thermal mass refrigerator","tie press","toaster","toaster oven","trivet","trouser press","turkey fryer","vacuum cleaner","vacuum fryer","vaporizer","waffle iron","washing machine","water cooker","water cooler","water heater","wet grinder","window fan","wood-fired oven"
+    ],
+    "awarenessVerb": [
+        "acknowledge",
+        "admit",
+        "complicate",
+        "concede",
+        "descry",
+        "determine",
+        "devour",
+        "diagnose",
+        "espy",
+        "note",
+        "obfuscate",
+        "perceive",
+        "pinpoint",
+        "recognize",
+        "remember",
+        "trouble"
+    ],
+    "awkwardAdj": [
+        "alien",
+        "artificial",
+        "banging",
+        "dead",
+        "deserted",
+        "dripping",
+        "eldritch",
+        "familiar",
+        "fiery",
+        "flaming",
+        "glowing",
+        "heretical",
+        "insidious",
+        "laughing",
+        "light",
+        "mirrored",
+        "organic",
+        "queasy",
+        "righteous",
+        "screaming",
+        "shrieking",
+        "shrill",
+        "slimey",
+        "squelching",
+        "still",
+        "viscous"
+    ],
+    "bigNamePerson": [
+        "#famousSTSer#",
+        "#famousThinker#"
+    ],
+    "body": [
+        "body",
+        "carcass",
+        "carrion",
+        "corpse",
+        "remains"
+    ],
+    "bodyParts": [
+      "antenna","blood","body","bone","brain","egg sac","eye","eyeball","face","finger","fingernail","gland","head","heart","horn","intestine","jowl","lip","lung","mandible","membrane","mouth","nerve","orifice","pelvis","skeleton","soul","teeth","tentacle","toe","tongue","uvula","vein"
+    ],
+    "builtInAdj": [
+        "embeded",
+        "embodied",
+        "encoded",
+        "encompassing",
+        "inherent",
+        "intrinsic",
+        "performative"
+    ],
+    "buildingmaterials": [
+        "adobe","aluminum","asbestos","asphalt","brick","carpet","cement","ceramic tile","cinder block","clay","concrete","copper","dimensional lumber","glass","glass brick","glass fiber","glass wool","glue-laminate","gravel","gypsum board","hemp","mud","oriented strand board","paint","paper","parallel strand lumber","plaster","plastic","plastic laminate","plywood","polystyrene","polyurethane","rammed earth","rebar","sand","shiplap","stone","styrofoam","terra cotta","terrazzo","timber","urbanite","wallpaper","wire rope","wood"
+    ],
+    "computer_sciences": [
+        ".QL","AIM","ASPnet","AWS","ActionScript","ActiveRecord","Ajax","Algol","Amazon","Angular","Apache","AppStream","AppleScript","AutoHotKey","Aviato","BASIC","Backbone","Bootstrap","Bower","Browserify","Bundler","C","C+","C++","COBOL","CSS3","Canvas","Capistrano","Cassandra","ClearDB","CloudFormation","CloudFront","CloudSearch","CloudTrail","CloudWatch","CodeCommit","CodeDeploy","CodePipeline","CoffeeScript","Cognito","CouchDB","CrunchBang","Csharp","Cucumber","D3","Dart","Diaspora","Discourse","Django","Drupal","DynamoDB","EBS","EC2","EJS","ERB","ElacticBeanstalk","ElasticSearch","Elasticache","Emacs","Ember","Erlang","Express","FORTRAN","FTP","Facebook","Fedora","Flash","Flickr","Foundation","Foursquare","GNUemacs","GNUlinux","Ghost","GitHub","Glacier","Gmail","Go","GoogleDocs","GoogleMaps","GrapheneDB","Grunt","HTML5","HacketyHack","Hadoop","Heroku","Hipchat","ICQ","IFTT","IRB","IRC","ImageMagick","Imgur","Indiegogo","Instagram","IronCache","JQuery","Jasmine","Java","Javascript","Jekyll","KeenIO","Kickstarter","Knockout","LaTeX","LeapMotion","LevelDB","Linux","Lisp","Lyft","MariaDB","MarkDown","Memcached","Middleman","Minitest","Mocha","MongoDB","MySql","NLTK","NPM","Netflix","NewRelic","Nginx","NoSQL","Node.js","Nokogiri","OAuth","OCR","OCaml","Objective-C","Octopress","OculusRift","OpenCV","Opera","Oracle","PGP","PHP","PIP","Pandora","Passenger","Perl","Polymer","Postgres","Processing","PubNub","PushNotifications","Python","Quora","Rack","Rails","React","RedHat","Redis","Refinery","Route53","Rspec","Ruby","Rust","SES","SNS","SQS","SSH","SWF","Sails","Scala","Scheme","Scratch","Sendgrid","Silverlight","Sinatra","Slack","Solr","SpoonRocket","Spotify","Sqlite","Swift","TCP","TempoDB","Tumblr","Twilio","Twitter","Uber","UbuWeb","Ubuntu","Unicorn","VBScript","Vim","VisualBasic","Webaudio","Webrick","Websockets","Wolfram Language","WordPress","XTags","Yahoo","Yelp","YouTube","Zepto"
+    ],
+    "conference": [
+        "Colloquium",
+        "Conference",
+        "Exposition",
+        "Forum",
+        "Symposium",
+        "Workshop"
+    ],
+    "confhashtag": [],
+    "CTA": [
+        "Can we",
+        "Deliberate to",
+        "Desperate to",
+        "It's time to",
+        "Long overdue is to",
+        "Please",
+        "Someone",
+        "Think piece to",
+        "We need to",
+        "Where is our ability to"
+    ],
+    "cuteKaomoji": [
+        "(*´c_,｀*)", "(´•ω•｀♥)", "(๑°꒵°๑)･*♡", "(๑╹っ╹๑)", "(ᅌᴗᅌ* )", "(•　ω　•)", "(∿°○°)∿ ︵ ǝʌol", "(◍•ᴗ•◍)", "(●´Д`●)", "(●⌒ｖ⌒●)", "(◔ᴥ◔)", "(◕‿◕✿)", "(◡‿◡✿)", "(♥ω♥*)", "(✾♛‿♛)ノ*♡*", "(✿ ♥‿♥)", "(✿◠‿◠)", "(つω`●）", "(ㆁᴗㆁ✿)", "(灬╹ω╹灬)", "°˖✧◝(⁰▿⁰)◜✧˖°", "ʕ•ᴥ•ʔ", "٩(๑❛ᴗ❛๑)۶", "≧◠◡◠≦", "╰(*´︶`*)╯", "♡´･ᴗ･`♡", "✿*,(*´◕ω◕`*)+✿.*", "（´・｀ ）♡", "｡◕‿◕｡", "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ"
+    ],
+    "edifice": [
+        "airstrip",
+        "archive",
+        "arsenal",
+        "base",
+        "bastion",
+        "black site",
+        "bunker",
+        "camp",
+        "complex",
+        "compound",
+        "containment zone",
+        "depot",
+        "facility",
+        "government facility",
+        "hangar",
+        "installation",
+        "laboratory",
+        "leviathan",
+        "location",
+        "missile silo",
+        "morass",
+        "panopticon",
+        "research",
+        "server",
+        "stockpile",
+        "test range"
+    ],
+    "examination": [
+        "(de)#examination#",
+        "(re)#examination#",
+        "animation",
+        "appropriation",
+        "colonization",
+        "construction",
+        "embodiment",
+        "examination",
+        "haptification",
+        "interpretation",
+        "mythologization",
+        "reimagining",
+        "sonification",
+        "translation"
+    ],
+    "fabrics": [
+        "acrylic","aertex","airdura","airguard","alpaca","angora","argyle","baize","ballistic nylon","ban-lon","barathea","barkcloth","batiste","bedford cord","bengaline silk","beta cloth","bizarre silk","bobbinet","boiled wool","bombazine","brilliantine","broadcloth","brocade","buckram","bunting","burlap","c change","calico","cambric","camlet","canvas","capilene","carbon fiber","cashmere","cedar bark","challis","chambray","char cloth","charmeuse","charvet","cheesecloth","chenille","chiffon","chino","chintz","chiné","cloqué","cloth of gold","coir","conductive","coolmax","cordura","corduroy","cotton","coutil","crape","cretonne","crimplene","crêpe","damask","darlexx","dazzle","denim","dimity","donegal tweed","dornix","dowlas","drill","drugget","duck","e-textiles","eolienne","felt","fishnet","flannel","foulard","fustian","gabardine","gannex","gauze","gazar","georgette","ghalamkar","gingham","gore-tex","grenadine","grenfell cloth","grosgrain","habutai","haircloth","harris tweed","hemp","herringbone","himroo","hodden","houndstooth","irish linen","jamdani","jersey","jute","kente cloth","kerseymere","kevlar","khaki drill","khādī","lace","lampas","lamé","lawn","linen","linsey-woolsey","loden","longcloth","lumalive","machine knitting","mackinaw","madapolam","madras","mesh","microfiber","milliskin","mockado","mohair","moleskin","moquette","muslin","nainsook","nankeen","needlerun net","ninon","nylon","oilskin","olefin","organdy","organza","osnaburg","ottoman","oxford","paduasoy","paisley","pashmina","percale","pin stripes","piña","plush","polar fleece","polyester","pongee","poplin","rakematiz","ramie","rayadillo","rayon","rep","rinzu","ripstop","russell cord","saga nishiki","samite","sateen","satin","saye","scarlet","scrim","sea silk","seersucker","serge","shot silk","shweshwe","silk","silnylon","sisal","songket","spandex","spider silk","stub-tex","stuff","sympatex","taffeta","tais","tartan","tattersall","terrycloth","toile","tucuyo","tulle","tweed","twill","ultrasuede","vegetable flannel","velour","velours du kasaï","velvet","velveteen","ventile","vinyl coated polyester","viyella","voile","wadmal","whipcord","wigan","windstopper","wool","zephyr","zibeline","zorbeez"
+    ],
+    "famousSTSer": [
+        "Andrew Feenberg",
+        "Bruno Latour",
+        "Bruno Latour",
+        "Carl Mitcham",
+        "Carol Cohn",
+        "Daniel Sareweitz",
+        "Donna Haraway",
+        "Judy Wacjman",
+        "Ian Hacking",
+        "Langdon Winner",
+        "Leo Marx",
+        "Lewis Mumford",
+        "Robert K Merton",
+        "Sandra Harding",
+        "Shiela Jasanoff",
+        "Thomas Kuhn",
+        "Yaron Ezrahi"
+    ],
+    "famousThinker": [
+        "Charles Darwin",
+        "Friedrich Nietzsche",
+        "Hannah Arendt",
+        "Immanuel Kant",
+        "Jean Jacques Rousseau",
+        "Jean-Paul Sartre",
+        "Judith Butler",
+        "Karl Marx",
+        "Ludwig Wittgenstein",
+        "Marie Curie",
+        "Martin Heidegger",
+        "Michel Foucault",
+        "Noam Chomsky",
+        "Rene Descartes",
+        "Søren Kierkegaard",
+        "Thomas Hobbes"
+    ],
+    "fancyAdj": [
+        "Kuhnian",
+        "Mertonian",
+        "Rawlsian",
+        "adumbrative",
+        "emblematic",
+        "epistemelogical",
+        "experientialist",
+        "metaphysical",
+        "neorealistic",
+        "normative",
+        "objective relativistic",
+        "performative",
+        "presentationistic",
+        "reflexive",
+        "substantive",
+        "symbolical",
+        "teleological"
+    ],
+    "fancyVolume": [
+        "normative",
+        "performative",
+        "substantive"
+    ],
+    "gemstones": [
+        "actinolite","adamite","aegerine","afghanite","agardite","agate","ajoite","alabaster","albite","alexandrite","almandine","alunite","amazonite","amber","amethyst","ametrine","ammolite","analcime","anatase","andalusite","andesine","andradite","anglesite","anhydrite","ankerite","annabergite","anthophyllite","antigorite","antlerite","anyolite","apache tears","apophyllite","aquamarine","aragonite","astrophyllite","atacamite","augite","aurichalcite","austinite","aventurine","axinite","azurite","barite","baryte","bauxite","bayldonite","benitoite","beryl","beudantite","biotite","bixbite","blue amber","boleite","bone","boracite","bornite","botallackite","botryogen","bowenite","brazilianite","brochantite","bronzite","brookite","brucite","bubblegram","bytownite","cacoxenite","calcite","caledonite","californite","carletonite","carminite","carnallite","carnelian","cassiterite","castorite","cavansite","celestine","celestite","cerussite","ceylonite","chalcedony","chalcopyrite","chambersite","charoite","chlorastrolite","chloromelanite","chondrodite","chrysoberyl","chrysocolla","chrysotile","cinnabar","citrine","clinochlore","clinohumite","clinozoisite","clintonite","conichalcite","copal","coral","cordierite","corundum","creedite","crocidolite","cummingtonite","cuprite","cymophane","danburite","datolite","diaboleite","diamond","diaspore","diopside","dioptase","dolomite","dravite","druzy","dumortierite","eilat stone","ekanite","elaeolite","elbaite","emerald","enstatite","epidosite","epidote","erythrite","esperite","fayalite","feldspar","ferroaxinite","flint","fluorapatite","fluorapophyllite","fluorite","forsterite","garnet","garnierite","gibbsite","glaucophane","goethite","goshenite","grandidierite","grossular","gypsum","halite","hambergite","hanksite","hardystonite","hauyne","helenite","heliodor","hematite","hemimorphite","hessonite","hibonite","hiddenite","humite","iddingsite","idocrase","iolite","ivory","jacinth","jade","jadeite","jarosite","jasper","jeremejevite","jet","kainite","kidney ore","kimberlite","kornerupine","kunzite","kutnohorite","kyanite","labradorite","lammerite","langbeinite","langite","lapis lazuli","larimar","lawsonite","lazurite","leadhillite","lechatelierite","legrandite","lepidolite","leucophanite","linarite","londonite","magnesioaxinite","magnesite","malachite","manganaxinite","manganoan calcite","maw sit sit","melanterite","mendipite","metal-coated crystals","milky quartz","mimetite","moissanite","mookaite","moonstone","morganite","muscovite","musgravite","nacre","natrophilite","nepheline","nephrite","nimite","normandite","obsidian","olenite","olivenite","olivine","olivinite","onyx","opal","orthoclase","pallasite","pantellerite","papagoite","pargasite","pearl","pectolite","peridot","peridotite","petalite","petoskey stone","pezzottaite","pharmacosiderite","phlogopite","phosgenite","pietersite","pimelite","plancheite","plumbogummite","pollucite","polyhalite","posnjakite","poudretteite","prasiolite","prehnite","proustite","pumpellyite","purpurite","pyrite","pyromorphite","pyrope","pyrrhotite","quartz","raspite","rhodizite","rhodochrosite","riebeckite","rosasite","rose quartz","rossmanite","rubellite","ruby","rutile","sapphire","sardonyx","scapolite","scheelite","schorlomite","scolecite","scorodite","selenite","seraphinite","serendibite","serpentite","shattuckite","shigaite","siderite","smithsonite","smoky quartz","soapstone","sodalite","spessartine","spessartite","sphene","spherocobaltite","spinel","spodumene","steatite","stichtite","stilbite","stishovite","stolzite","strengite","sugilite","sunstone","susannite","sylvite","synthetic alexandrite","synthetic beryl","synthetic corundum","synthetic cubic zirconia","synthetic diamond","synthetic moissanite","synthetic opal","synthetic quartz","synthetic spinel","synthetic turquoise","sérandite","taaffeite","tactite","talc","tantalite","tanzanite","thomsonite","thulite","tiger's-eye","tinaksite","tinzenite","titanite","topaz","tourmaline","tremolite","trinitite","tsavorite","tschermakite","tugtupite","turquoise","tusionite","tyrolite","unakite","uvarovite","vanadinite","variscite","vauxite","vermiculite","vesuvianite","villiaumite","wakefieldite","wavellite","weloganite","wolfenite","xenotime","yttrium aluminium garnet","zektzerite","zeolite","zincite","zinnwaldite","zircon","zoisite"
+    ],
+    "gerund": [
+        "breathing",
+        "cleaning",
+        "cooking",
+        "creating",
+        "dreaming",
+        "elucidating",
+        "hoping",
+        "living",
+        "loving",
+        "playing",
+        "reading",
+        "staying",
+        "working"
+    ],
+    "growthDecline": [
+        "adoption",
+        "advancement",
+        "constitution",
+        "decline",
+        "destruction",
+        "disruption",
+        "emergence",
+        "evolvement",
+        "germination",
+        "invalidation",
+        "maturation",
+        "production",
+        "proliferation",
+        "ruination",
+        "subjugation",
+        "subversion",
+        "transgression"
+    ],
+    "hashtag": [
+        "\\#4s2018",
+        "\\#4s2018",
+        "\\#Anthropocene",
+        "\\#QueerSTS",
+        "\\#STS",
+        "\\#botALLY",
+        "\\#femsts",
+        "\\#AcWri"
+    ],
+    "ideology": [
+        "#philosophicalIdeology#",
+        "#politicalIdeology#",
+        "anarcho-#philosophicalIdeology#",
+        "anarcho-#politicalIdeology#",
+        "crypto-#philosophicalIdeology#",
+        "crypto-#politicalIdeology#"
+    ],
+    "improvingRuining": [
+        "bounding",
+        "characterizing",
+        "decolonizing",
+        "enhancing",
+        "excoriating",
+        "exploding",
+        "foresaking",
+        "improving",
+        "indigenizing",
+        "queering",
+        "reanimating",
+        "reimagining",
+        "requeering",
+        "ruining",
+        "unbounding"
+    ],
+    "institute": [
+        "Academy",
+        "Association",
+        "Center",
+        "Guild",
+        "Hall",
+        "Laboratory",
+        "Library",
+        "Symposium",
+        "University"
+    ],
+    "neopost": [
+        "anti",
+        "neo",
+        "post",
+        "trans"
+    ],
+    "new_technologies": [
+          "3d displays","3d optical data storage","3d printers","3d-tvs","4g cellular networks","5g broadband","abortions","actuators","adaptive optics","advanced tactical lasers","aerogels","aeroscraft","aesthetic medicines","agricultural robotics","agricultural science","airborne wind turbines","aircraft flight control systems","airless tires","alternative fuel vehicles","aluminiums","ambient intelligences","amorphous metals","analogue electronics","androids","animal husbandries","answer machines","anti-gravity technology","antimatter weapons","arcologies","artificial brains","artificial gravity systems","artificial intelligence","artificial passengers","artificial photosynthesis","asteroid mining practices","atmospheric carbon dioxide removal","atomtronics","augmented realities","automated guided vehicles","autonomous buildings","autonomous cars","autonomous research robots","autonomous robotics","autonomous underwater vehicles","autostereoscopic displays","backpack helicopters","banotechnologies","barcodes","batteries","bead washing machines","beam-powered propulsion","behavior-based robotics","bio-printings","biobricks","biofuels","biological immortality","biometrics","biomimetics","bionic contact lenses","bioplastics","bioremediations","bioshelters","birth control","bitcoin","blu-ray discs","body implants","brain implants","brain transplantation","brain-computer interfaces","braingates","brain–computer interfaces","brightsource energies","broadbands","cameras","camouflages","carbon fibers","carbon nanotube field-effect transistors","carbon nanotubes","carbon neutral fuels","caseless ammunition","catalysts","chimneys","cinemas","claytronics","cloaking devices","cloaks of invisibility","closed ecological systems","cloud robotics","coatings","cochlear implants","cognitive radio","coilguns","colonization of the moon","composite materials","compressed air vehicles","computer interfaces","computer vision","computer-generated holography","computer-generated imagery","concentrated solar power","conductive polymers","contour craftings","contraceptions","control systems","cooling towers","cpus","crt displays","cryogenics","cryonics","cryoprotectants","cryptocurrencies","cyborgs","d-shapes","data storage","datacenters","de-extinction","dedicated short-range communications","delivery drones","dense plasma focus","desertec","designer babies","digital currencies","digital image processings","digital scent technologies","directed energy weapons","distributed computings","domed cities","driverless cars","drones","dry ices","e-democracies","e-learning","e-papers","e-textiles","electric cars","electric double-layer capacitors","electric vehicles","electro hydrodynamic propulsion","electroencephalography","electrohydrodynamics","electrolasers","electromagnetic weapons","electronic computing","electronic countermeasures","electronic devices","electronics","electrorheological fluid","electrothermal-chemical technology","energy harvesting","ethnic bioweapons","exascale computing","expendable launch systems","eyetap","femtotechnology","ferro liquid displays","ferroelectric ram","field emission displays","fishing","flexible electronics","flexible organic light-emitting diodes","fluidic flight controls","flying cars","flywheel energy storage","flywheels","force fields","fossil fuels","fourth-generation optical discs","full-genome sequencing","fullerene","fusion power","fusion rockets","fusion torch recycling","gene doping","gene therapy","generation iv reactors","genetic engineering","genetically-modified foods","geodesic domes","glass","gnu radio","google glass","graphene","graphics processing units","gravitomagnetic fields","green bullets","greenhouses","grid energy storage","ground effect trains","gynoid","gyroscopes","hand transplantation","haptic suits","hard disk drives","head-mounted displays","heads-up displays","heat sinks","high altitude platforms","high temperature superconductivity","high-capacity accumulators","high-temperature superconductivity","high-temperature superfluidity","holographic data storage","holographic displays","holographic tv","holography","home fuel cells","hoverboards","hovercraft","human enhancement","human-computer interaction","hydrogen vehicles","hypereutectic alloys","hypereutectic pistons","hyperloop","hypersonic transport","ieee 802.16m spectrum","igem","immersive virtual reality","in vitro meat","incubators","industrial agriculture","inflatable space habitat","insulin pump implants","integrated circuits","intelligent environments","intelligent transportation systems","interactive tv","interferometric modulator display","interstellar travel","ion thrusters","ismell","jacquard weaving","jet engines","jet packs","kevlar","kitegen","laser propulsion","laser tvs","laser video displays","laser weapon systems","laser weapons","lcd screens","li-fi","life extension","light field displays","lightweight small arms technologies","lithium iron phosphate batteries","lithium-air batteries","lithium-ion batteries","lithium–sulfur batteries","litracon","logistics","lte-advanced cellular networking","machine translation","machine vision","maglev trains","magnetic levitation","magnetic refrigeration","magnetic tape data storage","magnetoresistive random-access memory","magnetorheological damper","magnetorheological fluid","male contraception","mass drivers","medical tricorders","memristors","mesh networks","metal foam","metamaterial cloaking","metamaterials","micro air vehicles","microscopes","millipede memory","mind uploading","miniaturized satellites","missile defense","mobile broadband","mobile collaboration","mobile tv","molecular assemblers","molecular electronics","molecular nanotechnology","molten salt batteries","molten salt reactors","movies","mram","mri scanners","multi-agent systems","multi-function structures","muon-catalyzed fusion","nanoelectromechanical systems","nanomaterials","nanomedicines","nanorobotics","nanosensors","nanowire batteries","nantennas","neural networks","neuroinformatics","neuroprosthetics","nootropics","nram","nuclear fission power","nuclear pulse propulsion","ocean thermal energy conversion","oil consumption","oled displays","oncolytic viruses","open data","optical computing","optical data storage","optical storage","optics","organ printing","organ transplantation","organic light-emitting transistors","organic solar cells","pacemakers","paralysis","particle beam weapons","particle swarm optimization","passive houses","pattern recognition","personal genomics","personal rapid transit","personalized medicine","pervasive computing","phase-change memory","phased-array optics","photovoltaics","picotechnology","plant and fungus breeding","plantibodies","plasma stealth","plasma weapons","plasma windows","powered exoskeletons","precision agriculture","programmable logic","programmable matter","programmable metallization cells","prostheses","prosthetics","pure fusion weapons","quadcopters","quantum clocks","quantum computing","quantum cryptography","quantum dot display","quantum dot lasers","quantum dots","racetrack memory","radar-absorbent material","railguns","rapid prototyping","reconfigurable computing","regenerative braking","regenerative medicine","renewable energy","reprap projects","reprogenetics","research in the natural sciences","resonant inductive coupling","retinal implants","reusable launch systems","rewalk","rf and microwave filters","rfid","robotic surgery","robots","same-sex procreation","scramjets","screenless displays","seawater greenhouses","self healing material","self-checkout","self-reconfiguring modular robots","semantic web services","semantic web stacks","semantic webs","shanghai's maglev train","shock absorbers","signal processing","silicene","silicon–air battery","simulated reality","skin cell guns","sky hook","skyrmion","smart cities","smart grids","smart meters","smartglasses","smartphones","smartstores","smell-o-vision","software-defined antenna","software-defined radio","solar cells","solar roadways","solar sails","solar updraft tower","sonic weapons","space colonies","space colonization","space elevators","space fountains","space travel","space vests","space-based solar power","spaceplanes","spacex's reusable launch system development program","speech recognition","spintronics","star trek replicators","stealth aircraft","stealth technology","steel","stem cell treatments","stereoscopic displays","strategies for engineered negligible senescence","subvocal recognition","super-plastic alloys","superalloys","supercomputers","superfluidity","superplasticity","supersmart grids","supersonic transport","surgical anaesthesia","suspended animation","swarm intelligence","swarm robotics","swept-volume displays","synthetic biology","synthetic diamond","synthetic genomics","t-ram","talimogene laherparepvec","technological singularities","telescopic pixel displays","television","telework","terraforming","the adaptive compliant wing","the aerovironment global observer","the aerovironment nano hummingbird","the artificial uterus","the automobile","the aérotrain","the bae systems demon","the bloom energy server","the blue brain project","the citycar","the concorde","the corporate semantic web","the duke hospital prt","the eden project","the electric car","the electrical grid","the electronic nose","the europe gate","the google driverless car","the high energy liquid laser area defense system","the holodeck","the hovertrain","the htc evo 3d","the human brain project","the human universal load carrier","the hydrogen economy","the hypertelescopes","the internal combustion engine","the internet of things","the lopes exoskeleton","the mit car","the moller m400 skycar","the nintendo 3ds","the nokia morph","the oculus rift","the physical internet","the pulse detonation engine","the technologies of the wheel","the tweels","the universal software radio peripheral specs","the urban aeronautics x-hawks","the vactrains","the virgin earth challenges","the virtuspheres","the vortex ring guns","thermal copper pillar bumps","thermoelectric power generations","thorium fuel cycles","three-dimensional integrated circuits","time-multiplexed optical shutters","tires","tissue engineering technology","tooth regenerations","transhumanisms","tricorders","ultra high definition holographic discs","unmanned aerial vehicles","unmanned combat air vehicles","unmanned ground vehicles","unmanned space vehicles","unmanned surface vehicles","unmanned underwater vehicles","unmanned vehicles","utility fogs","v-texes","vertical farming practices","video games","viral videos","virotherapies","virtual realities","virtual retinal displays","visual prostheses","vitrifications","volumetric displays","von neumann universal constructors","vortex engines","washing machines","wearable computers","web 2.0s","web 3.0s","windows holograms","wireless energy transfers","wireless long-range electric shock weapons","witricities","x-ray machines","zero-energy buildings"
+    ],
+    "noun": [
+        "#animal#",
+        "#gemstones#",
+        "#physicalPlace#"
+    ],
+    "number1to20": [
+        "1","10","11","12","13","14","15","16","17","18","19","2","20","3","4","5","6","7","8","9"
+    ],
+    "object": [
+        "CD","Christmas ornament","acorn","apple","bag","bag of cotton balls","bag of popcorn","bag of rubber bands","ball of yarn","balloon","banana","bananas","bandana","bangle bracelet","bar of soap","baseball","baseball bat","baseball hat","basketball","beaded bracelet","beaded necklace","bed","beef","bell","belt","blouse","blowdryer","bonesaw","book","book of jokes","book of matches","bookmark","boom box","bottle","bottle cap","bottle of glue","bottle of honey","bottle of ink","bottle of lotion","bottle of nail polish","bottle of oil","bottle of paint","bottle of perfume","bottle of pills","bottle of soda","bottle of sunscreen","bottle of syrup","bottle of water","bouquet of flowers","bow","bow tie","bowl","box","box of Q-tips","box of baking soda","box of chalk","box of chocolates","box of crayons","box of markers","box of tissues","bracelet","bread","broccoli","brush","buckle","butter knife","button","camera","can of beans","can of chili","can of peas","can of whipped cream","candle","candlestick","candy bar","candy cane","candy wrapper","canteen","canvas","car","card","carrot","carrots","cars","carton of ice cream","cat","catalogue","cell phone","cellphone","cement stone","chain","chair","chalk","chapter book","check book","chenille stick","chicken","children's book","chocolate","class ring","clay pot","clock","clothes","clothes pin","coffee mug","coffee pot","comb","comic book","computer","conditioner","container of pudding","cookie jar","cookie tin","cork","couch","cow","cowboy hat","craft book","credit card","crow","crowbar","cucumber","cup","dagger","deodorant","desk","dictionary","dog","dolphin","domino set","door","dove","drawer","drill press","egg","egg beater","egg timer","empty bottle","empty jar","empty tin can","eraser","extension cord","eye liner","face wash","fake flowers","feather","feather duster","few batteries","fish","fishing hook","flag","flashlight","floor","flowers","flyswatter","food","football","fork","fridge","frying pan","game CD","game cartridge","garden spade","giraffe","glass","glasses","glow stick","grid paper","grocery list","hair brush","hair clip","hair pin","hair ribbon","hair tie","hammer","hamster","hand bag","hand fan","hand mirror","handbasket","handful of change","handheld game system","hanger","harmonica","helmet","house","ice cream stick","ice cube","ice pick","incense holder","ipod","ipod charger","jar of jam","jar of peanut butter","jar of pickles","jigsaw puzzle","key","key chain","keyboard","keychain","keys","kitchen knife","knife","lace","ladle","lamp","lamp shade","laser pointer","leg warmers","lemon","letter opener","light","light bulb","lighter","lime","lion","lip gloss","locket","lotion","magazine","magnet","magnifying glass","map","marble","martini glass","matchbook","microphone","milk","miniature portrait","mirror","mobile phone","model car","money","monitor","mop","mouse pad","mp3 player","multitool","music CD","nail","nail clippers","nail filer","necktie","needle","notebook","notepad","novel","ocarina","orange","outlet","pack of cards","package of crisp and crunchy edibles","package of glitter","packet of seeds","pail","paint brush","paintbrush","pair of binoculars","pair of dice","pair of earrings","pair of glasses","pair of handcuffs","pair of knitting needles","pair of rubber gloves","pair of safety goggles","pair of scissors","pair of socks","pair of sunglasses","pair of tongs","pair of water goggles","panda","pants","paper","paperclip","pasta strainer","pearl necklace","pen","pencil","pencil holder","pepper shaker","perfume","phone","photo album","picture frame","piece of gum","pillow","pinecone","plastic fork","plate","plush bear","plush cat","plush dinosaur","plush dog","plush frog","plush octopus","plush pony","plush rabbit","plush unicorn","pocketknife","pocketwatch","pool stick","pop can","postage stamp","puddle","purse","purse/bag","quartz crystal","quilt","rabbit","radio","rat","remote","rhino","ring","rock","roll of duct tape","roll of gauze","roll of masking tape","roll of stickers","roll of toilet paper","rolling pin","rope","rubber band","rubber duck","rubber stamp","rug","rusty nail","safety pin","sailboat","salt shaker","sand paper","sandal","sandglass","scallop shell","scarf","scotch tape","screw","screwdriver","seat belt","shampoo","shark","sharpie","shawl","sheep","sheet of paper","shirt","shirt button","shoe lace","shoes","shopping bag","shovel","sidewalk","sketch pad","slipper","small pouch","snail shell","snowglobe","soap","soccer ball","socks","sofa","spatula","speakers","spectacles","spice bottle","sponge","spool of ribbon","spool of string","spool of thread","spool of wire","spoon","spring","squirrel","squirt gun","statuette","steak knife","stick","stick of incense","sticker book","sticky note","stockings","stop sign","straw","street lights","sun glasses","sword","table","tea cup","tea pot","teddies","television","tennis ball","tennis racket","thermometer","thimble","thread","tiger","tire swing","tissue box","toe ring","toilet","toilet paper tube","tomato","tooth pick","toothbrush","toothpaste","toothpick","towel","toy boat","toy car","toy plane","toy robot","toy soldier","toy top","trash bag","tree","trucks","tube of lip balm","tube of lipstick","turtle","tv","tweezers","twister","umbrella","vase","video games","wallet","washcloth","washing machine","watch","water","water bottle","wedding ring","whale","whip","whistle","white out","window","wine glass","wireless control","wishbone","wooden spoon","word search","wrench","wristwatch","zebra","zipper"
+    ],
+    "ofObjects": [
+        "capitalism",
+        "hydration",
+        "industry",
+        "information",
+        "surveillance",
+        "violence"
+    ],
+    "passage": [
+        "avenue", "conveyor", "corridor", "door", "doorway", "dumbwaiter", "entrance", "entryway", "exit", "fire escape", "fire pole", "foyer", "gate", "hallway", "hatch", "ladder", "opening", "passage", "passageway", "path", "pit", "secret door", "staircase", "stairway", "step", "track", "trail", "trapdoor", "tunnel", "walkway"
+    ],
+    "philosophicalIdeology": [
+        "consequentialism",
+        "deconstructionism",
+        "utilitarianism"
+    ],
+    "physicalPlace": [
+        "abbey", "amphitheater", "apartment", "arch", "arena", "artificial lake", "artificial mountain", "attic", "battleship", "building", "cabin", "castle", "cathedral", "cave", "cave system", "cavern", "cellar", "chapel", "church", "church", "cistern", "citadel", "colossus", "cottage", "crypt", "dome", "greenhouse", "grove", "house", "labyrinth", "library", "library", "lighthouse", "lodge", "longhouse", "manor", "market hall", "minaret", "mine", "monastery", "monument", "office", "palace", "pit", "pyramid", "ring", "room", "ruin", "ship", "spire", "statue", "temple", "temple", "theater", "throne", "tomb", "tower", "tower", "tree", "underground city", "underground garden", "underground tunnel", "university", "vault", "ziggurat"
+    ],
+    "politicalIdeology": [
+        "anarchism",
+        "centrism",
+        "communism",
+        "democracy",
+        "environmentalism",
+        "facism",
+        "indigenism",
+        "libertarianism",
+        "marxism",
+        "masculism",
+        "mutualism",
+        "nationalism",
+        "revisionism",
+        "socialism",
+        "syndicalism"
+    ],
+    "reimaginingTitles": [
+        "Advancing",
+        "Inventing",
+        "New Directions in",
+        "Reimagining",
+        "Reinventing",
+        "The Future of"
+    ],
+    "room": [
+        "aerary", "aircraft cabin", "airport lounge", "alcove", "anatomical theatre", "anechoic chamber", "antechamber", "anteroom", "armory", "assembly room", "atelier", "attic", "auditorium", "backroom", "ballroom", "basement", "bathroom", "bedroom", "billiard room", "boardroom", "boiler room", "boudoir", "breakfast nook", "breezeway", "cabin", "cafeteria", "caldarium", "cellar", "changing room", "chapel", "classroom", "clean room", "cloakroom", "closet", "cold room", "common room", "computer lab", "conference room", "conservatory", "control room", "conversation pit", "corner office", "courtroom", "cry room", "darkroom", "den", "dining room", "dormitory", "drawing room", "dressing room", "electrical room", "emergency room", "engine room", "equipment room", "fallout shelter", "family room", "fitting room", "foyer", "game room", "garage", "guest room", "gym", "hotel room", "kitchen", "laundry room", "library", "living room", "lobby", "locker room", "loft", "lounge", "mailroom", "map room", "motel room", "mud room", "newsroom", "nursery", "office", "panic room", "pantry", "parlor", "playroom", "pool room", "print room", "rec room", "salon", "sauna", "schoolroom", "showroom", "sitting room", "staff room", "stockroom", "storm cellar", "studio", "study", "sunroom", "tearoom", "throne room", "transmission control room", "tv room", "utility room", "waiting room", "washroom", "water closet", "weight room", "wine cellar", "wiring closet", "workshop"
+    ],
+    "society": [
+        "civilization",
+        "collective",
+        "community",
+        "culture",
+        "humanity",
+        "nation",
+        "population",
+        "public",
+        "social order",
+        "society"
+    ],
+    "sociopoliticalAdj": [
+        "Judeo-Christian",
+        "athiestic",
+        "capitalist",
+        "communist",
+        "convservative",
+        "hegemonic",
+        "industrial",
+        "liberalist",
+        "marxist",
+        "mysoginistic",
+        "patriarchal",
+        "right-wing",
+        "socialist"
+    ],
+    "techsOF": [
+        "artifacts",
+        "assemblages",
+        "constructions",
+        "deconstructions",
+        "explications",
+        "ideologies",
+        "illuminations",
+        "imaginaries",
+        "infrastructures",
+        "innovations",
+        "intersections",
+        "machinations",
+        "moralities",
+        "ontologies",
+        "policies",
+        "politics",
+        "reconstructions",
+        "technologies",
+        "technosocial #edifice.s#",
+        "technostrategic #edifice.s#",
+        "temporalities",
+        "virtues"
+    ],
+    "thought": [
+        "examination",
+        "ideation",
+        "rumination",
+        "thought"
+    ]
+}
