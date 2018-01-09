@@ -2,11 +2,11 @@
   "origin": [
       "#awkwardAdj.capitalize# #new_technologies# are #improvingRuining# the #sociopoliticalAdj# #society#.",
       "#gerund# & #new_technologies#: #animal.s# in the anthropocene. #hashtag#",
-      "#improvingRuining# the #new_technologies# as #edifice.a# of #sociopoliticalAdj# #thought#. #hashtag#",
+      "I am #improvingRuining# the #new_technologies# as #edifice.a# of #sociopoliticalAdj# #thought#. #hashtag#",
       "#neopost.capitalize#-#sociopoliticalAdj.capitalize# #institute.capitalize#. #hashtag#",
       "#bigNamePerson# once told me that #new_technologies# is only #examination.a# of #appliance.a#. #hashtag#",
       "CFP: #conference# for #reimaginingTitles# the #fancyAdj.capitalize# #society.capitalize#. #hashtag#",
-      "New idea: the #growthDecline# of the #appliance# is #improvingRuining# our #society#. #hashtag#",
+      "New thesis: the #growthDecline# of the #appliance# is #improvingRuining# our #society#. #hashtag#",
       "I am #improvingRuining# the #techsOF# of #sociopoliticalAdj# #noun.s#.",
       "STS Clue: \n#bigNamePerson#\nin the #room#\nwith the #new_technologies#",
       "We are all #animal.s#: #new_technologies# in the capitalocene. #hashtag#",
@@ -14,7 +14,8 @@
       "What are the ethics of #new_technologies#? #hashtag#",
       "Working on a #number1to20#,000 word article about the #builtInAdj# #ideology# of every #object#. #hashtag#",
       "Please stop to think about the #builtInAdj# #ideology# of your #appliance#",
-      "Twitter version of #fancyAdj# #ideology#:\n\n\n #cuteKaomoji#"
+      "Twitter version of #fancyAdj# #ideology#:\n\n\n #cuteKaomoji#",
+      "I shared a #pretentiousFoodAdj# #highLowFood# with #bigNamePerson# today. Of course we ended up arguing about #ideology#."
   ],
 
     "animal": [
@@ -275,15 +276,22 @@
         "\\#STS",
         "\\#botALLY",
         "\\#femsts",
-        "\\#AcWri"
+        "\\#AcWri",
+        "\\#mla18",
+        "\\#DH"
     ],
     "ideology": [
         "#philosophicalIdeology#",
         "#politicalIdeology#",
+        "#socialIdeology",
         "anarcho-#philosophicalIdeology#",
         "anarcho-#politicalIdeology#",
+        "anarcho-#socialIdeology#",
         "crypto-#philosophicalIdeology#",
-        "crypto-#politicalIdeology#"
+        "crypto-#politicalIdeology#",
+        "crypto-#socialIdeology#",
+        "dialectical #politicalIdeology#",
+        "dialectical #philosophicalIdeology#"
     ],
     "improvingRuining": [
         "bounding",
@@ -347,7 +355,23 @@
     "philosophicalIdeology": [
         "consequentialism",
         "deconstructionism",
-        "utilitarianism"
+        "utilitarianism",
+        "nantianism",
+        "nihilism",
+        "absolutism",
+        "historicism",
+        "hermeneutics",
+        "egalitarianism",
+        "ecumenism",
+        "deconstructionism",
+        "materialism",
+        "existentialism"
+    ],
+    "socialIdeology": [
+      "feminism",
+      "internsectionalism",
+      "postmodernism"
+
     ],
     "physicalPlace": [
         "abbey", "amphitheater", "apartment", "arch", "arena", "artificial lake", "artificial mountain", "attic", "battleship", "building", "cabin", "castle", "cathedral", "cave", "cave system", "cavern", "cellar", "chapel", "church", "church", "cistern", "citadel", "colossus", "cottage", "crypt", "dome", "greenhouse", "grove", "house", "labyrinth", "library", "library", "lighthouse", "lodge", "longhouse", "manor", "market hall", "minaret", "mine", "monastery", "monument", "office", "palace", "pit", "pyramid", "ring", "room", "ruin", "ship", "spire", "statue", "temple", "temple", "theater", "throne", "tomb", "tower", "tower", "tree", "underground city", "underground garden", "underground tunnel", "university", "vault", "ziggurat"
@@ -359,16 +383,22 @@
         "democracy",
         "environmentalism",
         "facism",
+        "hedonism",
         "indigenism",
         "libertarianism",
+        "structuralism",
+        "subjectivism",
         "marxism",
         "masculism",
         "mutualism",
+        "singulatarianism",
         "nationalism",
         "revisionism",
         "socialism",
         "syndicalism"
     ],
+    "pretentiousFoodAdj": [ "toothsome", "bespoke", "foam", "gastronomic", "foraged", "raw", "harvested", "sumptuous", "deconstructed", "market", "hand-crafted"],
+    "highLowFood": ["cold brew", "ramen burger", "pabst blue ribbon", "kale salad", "duck confit taco", "plate of prarie oysters", "bowl of balut", "tater tot", "pizza burger", "plate of chicken waffles", "turducken", "dutch baby", "kimchi hot dog", "cricket protein bar"],
     "reimaginingTitles": [
         "Advancing",
         "Inventing",
